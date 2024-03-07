@@ -1,0 +1,14 @@
+1) install virtualenv
+py or python3 or python or py3) -m pip install virtualenv
+2)create the virtualenv(py or python3 or py3) -m venv "nameofthefolder"
+3)activate the venv that we create
+
+MAC
+source venv/bin/activate
+
+win
+venv\Scripts\activate
+
+4) install flask
+
+py -m pip install flask
